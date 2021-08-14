@@ -1,0 +1,12 @@
+
+' @desc: create a 1px border on a borderless-Form...
+' @parm: (control, size in px, color)
+  ControlBorder(form1, 1, Color.Black)
+  
+'@desc: create a border for a panel
+  ControlBorder(panel1, 1, Color.Black)
+  
+'@desc: create a border for a textbox
+  ControlBorder(textbox1, 1, Color.Black)
+  
+' an other controls....
